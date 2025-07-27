@@ -1,3 +1,6 @@
+DATA SET LINK :
+https://drive.google.com/drive/folders/1GiNX_xvw2u6CHnzWWon5C4CGwma53LN3?usp=drive_link
+(CONTAINS DATASET + TRAIN+ TEST+ VALIDATION NUMPY ARRAYS )
 🧠 Overview
 
 This project uses transfer learning with a pre-trained ResNet50 model (ImageNet weights) for detecting and classifying eye diseases from medical eye images. The classification is performed into 4 classes, typically including conditions such as:
